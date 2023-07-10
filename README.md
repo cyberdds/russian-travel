@@ -18,7 +18,7 @@
   - Grid Layout;
   - Adaptive UI;
   - Media Queries;
-- Фйловая структура Nested БЭМ;
+- Файловая структура Nested БЭМ;
 
 ## Ссылка на сайт
 * https://cybersqace.github.io/russian-travel/index.html
